@@ -1,6 +1,4 @@
-# Project 1: Shell
-
-This is the starter code for [Project 1](https://course.ccs.neu.edu/cs3650f22/p1.html).
+# Shell
 
 The [Makefile](Makefile) contains the following targets:
 
